@@ -4,8 +4,8 @@
 
 **Authors:**
 
-- Nadia S. Kennedy, <nkennedy@citytech.cuny.edu>
-- Boyan S. Kostadinov, <bkostadinov@citytech.cuny.edu>
-- Ariane M. Masuda, <amasuda@citytech.cuny.edu>
+- **Nadia S. Kennedy**, <nkennedy@citytech.cuny.edu>
+- **Boyan S. Kostadinov**, <bkostadinov@citytech.cuny.edu>
+- **Ariane M. Masuda**, <amasuda@citytech.cuny.edu>
 
 **Affiliation:** *New York City College of Technology, CUNY*
