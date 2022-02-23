@@ -20,7 +20,7 @@ citecolor: black
 linkcolor: black
 header-includes: 
   - \usepackage{hyperref}
-  - \usepackage[numbers,sort]{natbib}
+  - \usepackage[numbers]{natbib}
 ---
 
 
@@ -32,16 +32,15 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE, fig.height 
 
 ```{r, echo=FALSE}
 # required packages
-library(png)
-library(knitr)
-library(kableExtra)
+library(bookdown)
 library(imager)
-library(grid)
-library(ggplot2)
 library(pracma)
 library(mosaic)
 library(mosaicCalc)
 library(tidyverse)
+library(knitr)
+library(kableExtra)
+library(pathmapping)
 ```
 
 
@@ -86,7 +85,7 @@ remotes::install_github("dtkaplan/Zcalc")
 ```
 
 
-We use the **tidyverse** collection of packages developed by RStudio, and specifically **ggplot2** for visualizations and **dplyr** for data analysis, [@wickham2021a;@wickham2021]. We also use the **png** package for reading and manipulating png images, and the **knitr** package for printing tables and including graphics. 
+We use the **tidyverse** collection of packages developed by RStudio, and specifically **ggplot2** for visualizations and **dplyr** for data analysis, [@wickham2021a;@wickham2021]. We also use the **imager** package for reading and manipulating images, and the **knitr** package for printing tables and including graphics. 
 
 We recommend the following resources to learn the basics of \textsf{R}: [@braun2021; @wickham2017; @cornelissen2022], and R Markdown: [@rmarkdown; @xie2022; @grolemund2021]. 
 
