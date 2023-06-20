@@ -1,6 +1,6 @@
 # MAA Volume: <br> Cross-Curricular Applications for Pure Mathematics Courses
 
-## Chapter: Estimating the Area of a Lung Nodule from an X-ray Image
+## Chapter: Estimating the Size and Shape of a Lung Nodule from an X-ray Image
 
 **Authors:**
 
